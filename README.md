@@ -4,4 +4,3 @@ volume in tissues to measure the heart rate of the user.
 
 - Data: data for analysis
 - Heart_Rate_Monitor.ipynb: Python code for analysis
-- HeartRate Monitor.pdf: Report explaining all the concepts
